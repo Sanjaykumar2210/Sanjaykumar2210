@@ -1,2 +1,2 @@
-# sanjaykumar.github.io
+# Sanjaykumar.github.io
 Portfolio Website
