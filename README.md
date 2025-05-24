@@ -6,12 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar2210&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar2210" /> </p>
 
 - 🔭 I’m currently working on **Student Remainder**  
-- 🌱 Currently learning **Flask & Full Stack Integrations**  
-- 💼 Software Trainee at **Data Lancet** *(Worked as a Next.js Developer)*  
+- 🌱 Currently learning **Full Stack Integrations**  
+- 💼 Software Developer at **Data Lancet** *(Worked as a Next.js Developer)*  
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, MySQL, Next.js**  
 - 👨‍💻 Portfolio: [sanjaykumar22.netlify.app](https://sanjaykumar22.netlify.app)  
 - 📫 Reach me at **sanjay.kumar223003@gmail.com**  
 - 📄 Resume: [My Resume on Google Drive](https://drive.google.com/drive/u/0/folders/1mGzQTspJqDyCrQSZgQ8SWcF6FLQjQlf3)
+
+---
 
 ### 🚀 Featured Projects:
 
@@ -50,8 +52,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
