@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stack Scope**  
 - 🌱 Currently learning **Full Stack Integrations**  
-- 💼 Software Developer at **Solvedge Tech** *(Worked as a Next.js Developer)*  
+- 💼 Software Developer at **Solvedge Tech**   
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, MySQL, Next.js, Angular.js**  
 - 👨‍💻 Portfolio: [sanjaykumar22.netlify.app](https://sanjaykumar22.netlify.app)  
 - 📫 Reach me at **sanjay.kumar223003@gmail.com**  
