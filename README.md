@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar2210&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar2210" /> </p>
 
-- 🔭 I’m currently working on **Student Remainder**  
+- 🔭 I’m currently working on **Stack Scope**  
 - 🌱 Currently learning **Full Stack Integrations**  
-- 💼 Software Developer at **Data Lancet** *(Worked as a Next.js Developer)*  
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, MySQL, Next.js**  
+- 💼 Software Developer at **Solvedge Tech** *(Worked as a Next.js Developer)*  
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, MySQL, Next.js, Angular.js**  
 - 👨‍💻 Portfolio: [sanjaykumar22.netlify.app](https://sanjaykumar22.netlify.app)  
 - 📫 Reach me at **sanjay.kumar223003@gmail.com**  
 - 📄 Resume: [My Resume on Google Drive](https://drive.google.com/drive/u/0/folders/1mGzQTspJqDyCrQSZgQ8SWcF6FLQjQlf3)
@@ -17,7 +17,7 @@
 
 ### 🚀 Featured Projects:
 
-- 🔹 [Next Gen AI](http://www.nextgenai.one/):  
+- 🔹 [Next Gen AI](https://next-gen-ai-29hf.vercel.app/):  
   A SaaS platform using **Next.js**, **Gemini API**, **Clerk for auth**, **Drizzle ORM**, and **Neon Postgres**.
 
 - 🔹 [Pixify Lab](https://pixifylab.com/):  
